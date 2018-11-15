@@ -1,10 +1,10 @@
 import socket
 
 def main():
-    #socket.AD_INET 表示ipv4协议  socket.SOCK_STREAM 表示 udp网络
+    #socket.AD_INET 表示ipv4协议  socket.SOCK_STREAM 表示 tcp网络
     # s= socket.socket(socket.AD_INET, socket.SOCK_STREAM)
 
-    #socket.AD_INET 表示ipv4协议  socket.SOCK_DGRAM 表示 tcp网络
+    #socket.AD_INET 表示ipv4协议  socket.SOCK_DGRAM 表示 udp网络
     #创建套接字
     tcp_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     #链接服务器
