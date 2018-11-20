@@ -1,22 +1,26 @@
 import socket
+import re
 
 def service_client(new_socket):
     #为这个客户端返回数据
-    request = new_socket.recv(1024)
-    print("*" * 50)
+    request = new_socket.recv(1024).decode("utf-8")
+
+
     print(request)
     #接收浏览器发送来的请求
+
+
 
     response ="HTTP/1.1 200 OK\r\n"
     response += "\r\n"
 
     #准备发送给浏览器的数据
-    # response += "<h1>哈哈/h1>"
 
-
-    f = open("./html/index.html","rb")
+    f = open("./html/index.html" , "rb")
     html_content=f.read()
     f.close()
+
+
     new_socket.send(response.encode("utf-8"))
     new_socket.send(html_content)
 

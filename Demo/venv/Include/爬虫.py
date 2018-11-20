@@ -3,7 +3,8 @@ import requests
 
 
 #
-url= "http://www.xiaohuar.com/mm/"
+
+url= "http://http://www.xiaohuar.com/list-1-1.html/"
 #返回网页代码
 wb_data =requests.get(url)
 # print(wb_data)
@@ -14,11 +15,11 @@ res =re.findall(r'src="(.*?.jpg)"',wb_data.text)
 # print(res)
 
 # 保存数据
-num =0
+num =1
 for i in res:
     print(i)
     if i.startswith('/d'):
-        i = 'http://www.xiaohuar.com'+i
+        i = 'http://www.xiaohuar.com/'+i
         print(i)
 
         b =requests.get(i)
