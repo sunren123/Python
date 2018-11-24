@@ -27,3 +27,26 @@ class HeroInfo(models.Model):
     # 是否删除
     isDelete = models.BooleanField(default=False)
 
+    #指定模型类对应的表名称
+    # class Meta:
+    #     db_table ="HeroInfo"
+
+# #新闻类
+# class NewsType(models.Model):
+#     #类型名称
+#     type_name = models.CharField(max_length=20)
+#     news_type = models.ManyToManyField("NewsInfo")
+#
+#
+# #新闻详细类
+# class NewsInfo(models.Model):
+#     title = models.CharField(max_length=128)
+#     pub_date = models.DateTimeField(auto_now_add=True)
+#     content = models.TextField()
+
+
+class AreaInfo(models.Model):
+    #地区名称
+    atitle = models.CharField(max_length=20)
+    #关系属性，代表当前地区的腹肌地区
+    aParent = models.ForeignKey('self', null=True, blank=True,on_delete=models.CASCADE)
