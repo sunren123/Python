@@ -111,7 +111,7 @@ def change_pwd_action(request):
 
 from PIL import Image, ImageDraw, ImageFont
 from django.utils.six import BytesIO
-...
+
 def verify_code(request):
     #引入随机函数模块
     import random

@@ -15,4 +15,5 @@ urlpatterns = [
     url(r"^change_pwd$",views.change_pwd),
     url(r"^change_pwd_action$",views.change_pwd_action),
 
+    url(r'^verify_code/$', views.verify_code),
 ]
