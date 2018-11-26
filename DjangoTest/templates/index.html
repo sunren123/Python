@@ -8,7 +8,12 @@
 <a href="/create">添加</a>
 <ul>
     {% for book in books %}
-<li> {{ book.btitle }}<a href="/delete{{ book.id  }}">删除</a></li>
+
+<li> {{ forloop.counter }}
+    {{ book.btitle }}
+    {{ book.bpub_date|date:'Y年-m月-d日' }}
+    <a href="/delete{{ book.id  }}">删除</a>
+</li>
     {% endfor %}
 </ul>
 </body>

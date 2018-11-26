@@ -1,5 +1,4 @@
-#!D:\Python\DjangoTest\venv\Scripts\python.exe
-from django.core import management
+from django.contrib import admin
+from .models import Article
 
-if __name__ == "__main__":
-    management.execute_from_command_line()
+admin.site.register(Article)

@@ -6,7 +6,7 @@ class BookInfo(models.Model):
     #图书名称
     btitle =models.CharField(max_length=20)
     # 日期
-    bpub_date=models.DateField()
+    bpub_date=models.DateField(auto_now=True)
     # 阅读量
     bread =models.IntegerField(default=0)
     # 评论
