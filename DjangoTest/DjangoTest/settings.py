@@ -48,6 +48,7 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    # 'blog.middleware.BlockedIPSMIddleware'
 ]
 
 ROOT_URLCONF = 'DjangoTest.urls'
@@ -113,7 +114,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'zh-hans'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Asia/Shanghai'
 
 USE_I18N = True
 
@@ -124,7 +125,9 @@ USE_TZ = True
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.1/howto/static-files/
-
-STATIC_URL = '/static/' #别名
+#设置访问静态文件对应的url
+STATIC_URL = '/static/'
+#  设置静态文件存放的物理目录
+STATICFILES_DIRS = [os.path.join(BASE_DIR,'static')]
 
 

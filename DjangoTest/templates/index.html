@@ -1,10 +1,12 @@
 <!DOCTYPE html>
+{% load staticfiles %}
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>图书信息</title>
 </head>
 <body>
+{{ user_ip }}
 <a href="/create">添加</a>
 <ul>
     {% for book in books %}
@@ -16,5 +18,10 @@
 </li>
     {% endfor %}
 </ul>
+
+
+<img src="/static/images/1.jpg"><br>
+动态获取<br>
+<img src="{% static 'images/1.jpg' %}">
 </body>
 </html>
