@@ -1,5 +1,13 @@
 from django.db import models
 
+
+
+
+class AreaInfo(models.Model):
+    #地区名称
+    atitle=models.CharField(max_length=20)
+    #自关联属性
+
 # Create your models here.
 #一类
 class BookInfo(models.Model):
