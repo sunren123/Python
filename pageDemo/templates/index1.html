@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>首页</title>
+</head>
+<body>
+<ul>
+    {% for user in posts.object_list %}
+        <li>{{ user.name }}--{{ user.age }}</li>
+    {% endfor %}
+
+</ul>
+
+    {% include 'include/pager.html' %}
+
+</body>
+</html>

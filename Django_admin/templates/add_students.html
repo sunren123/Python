@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>添加学生</title>
+</head>
+<body>
+<form method="POST" action="/add_students" >
+     {% csrf_token %}
+    用户名：<input type="text" name="username" placeholder="用户名"><br>
+    年  龄：<input type="text" name="age" placeholder="年龄"><br>
+    男：<input type="radio" name="gender" value="1"><br>
+    女：<input type="radio" name="gender" value="0"><br>
+    <select name="cs">
+       {% for cs in cs_list %}
+            <option value="{{ cs.id }}">{{ cs.titile }}</option>
+       {% endfor %}
+    </select>
+    <input type="submit" name="提交" ><br>
+</form>
+</body>
+</html>

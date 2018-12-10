@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>学生列表</title>
+</head>
+<body>
+
+<ul>
+    {% for stu in stu_list %}
+        <li>
+        {{ stu.id }}
+        {{ stu.username }}
+        {{ stu.age }}
+        {{ stu.cs.titile }}
+        {{ stu.gender }}
+
+
+        </li>
+    {% endfor %}
+    
+
+</ul>
+</body>
+</html>

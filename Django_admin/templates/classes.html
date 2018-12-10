@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<a href="/add_classes">添加班级</a><br>
+
+<ul>
+    {% for cls in clsaaes %}
+
+      <li>
+        {{ cls.id }}
+        {{ cls.titile }}
+        <a href="/del_classes?nid={{ cls.id }}">删除</a>
+        <a href="/edit_classes?nid={{ cls.id }}">编辑</a>
+      </li>
+    {% endfor %}
+    
+</ul>
+</body>
+</html>

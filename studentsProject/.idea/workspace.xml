@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b02c7a15-78d8-42c6-b3d8-afd903ff4c58" name="Default Changelist" comment="">
+    <list default="true" id="721a9d12-60ac-4f4f-9669-f6ccd25c3649" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../Django_admin/.idea/Django_admin.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Django_admin/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Django_admin/.idea/modules.xml" afterDir="false" />
@@ -24,66 +24,75 @@
       <change afterPath="$PROJECT_DIR$/../ORMdjango/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ORMdjango/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ORMdjango/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/.idea/studentsProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/js/jquery-3.1.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/bootstrap/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/bootstrap/css/bootstrap-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/bootstrap/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/bootstrap/js/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/font-awesome/HELP-US-OUT.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/font-awesome/less/animated.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/font-awesome/less/bordered-pulled.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/font-awesome/less/core.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/font-awesome/less/fixed-width.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/font-awesome/less/font-awesome.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/font-awesome/less/icons.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/font-awesome/less/larger.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/font-awesome/less/list.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/font-awesome/less/mixins.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/font-awesome/less/path.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/font-awesome/less/rotated-flipped.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/font-awesome/less/screen-reader.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/font-awesome/less/stacked.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/font-awesome/less/variables.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/font-awesome/scss/_animated.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/font-awesome/scss/_bordered-pulled.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/font-awesome/scss/_core.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/font-awesome/scss/_fixed-width.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/font-awesome/scss/_icons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/font-awesome/scss/_larger.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/font-awesome/scss/_list.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/font-awesome/scss/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/font-awesome/scss/_path.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/font-awesome/scss/_rotated-flipped.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/font-awesome/scss/_screen-reader.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/font-awesome/scss/_stacked.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/font-awesome/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/static/plugins/font-awesome/scss/font-awesome.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studentsProject/templates/students.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django02/.idea/django02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django02/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pageDemo/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pageDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pageDemo/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pageDemo/templates/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/studentsProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery-3.1.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/bootstrap/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/bootstrap/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/bootstrap/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/bootstrap/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome/HELP-US-OUT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome/less/animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome/less/bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome/less/fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome/less/larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome/less/list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome/less/rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome/less/screen-reader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome/less/stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome/scss/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome/scss/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome/scss/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/students.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AddDjango/.idea/AddDjango.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../AddDjango/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../AddDjango/.idea/modules.xml" beforeDir="false" />
@@ -4971,7 +4980,7 @@
       <change beforePath="$PROJECT_DIR$/../DemoDjango/venv/templates/project_list.html.tpl" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../DemoDjango/venv/templates/project_new.html.tpl" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../DemoDjango/venv/templates/project_show.html.tpl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DjangoTest/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mysql数据库操作/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mysql数据库操作/数据库操作.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../admin/.idea/admin.iml" beforeDir="false" />
@@ -5100,127 +5109,82 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="28613257">
+    <session id="-1488510624">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
-          <entry key="project.open.time.0" value="7" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.46" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.6" value="2" />
-          <entry key="project.open.time.7" value="2" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.43" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="17" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="29" />
-          <entry key="html___jb_tmp___" value="1" />
-          <entry key="person" value="1" />
-          <entry key="py" value="82" />
-          <entry key="py___jb_tmp___" value="3" />
-          <entry key="sql" value="4" />
-          <entry key="sqlite3" value="2" />
+          <entry key="css" value="2" />
+          <entry key="ent" value="1" />
+          <entry key="html" value="7" />
+          <entry key="js" value="11" />
+          <entry key="py" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Database Element" value="1" />
-          <entry key="HTML" value="29" />
-          <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="82" />
-          <entry key="Scratch" value="4" />
-          <entry key="UNKNOWN" value="1" />
+          <entry key="CSS" value="2" />
+          <entry key="DTD" value="1" />
+          <entry key="HTML" value="7" />
+          <entry key="JavaScript" value="11" />
+          <entry key="Python" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Django Console" value="8" />
-          <entry key="html" value="1040" />
-          <entry key="py" value="4071" />
-          <entry key="py@DjangoTest" value="10" />
-          <entry key="sql" value="35" />
-          <entry key="txt" value="69" />
+          <entry key="html" value="1038" />
+          <entry key="py" value="284" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CommandLine" value="10" />
-          <entry key="HTML" value="1040" />
-          <entry key="PLAIN_TEXT" value="69" />
-          <entry key="Python" value="4079" />
-          <entry key="Scratch" value="35" />
+          <entry key="HTML" value="1038" />
+          <entry key="Python" value="284" />
         </counts>
       </usages-collector>
     </session>
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="DjangoTest" />
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DjangoTest/settings.py">
+        <entry file="file://$PROJECT_DIR$/app01/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="78" selection-start-line="78" selection-end-line="89" selection-end-column="1" />
+            <state relative-caret-position="528">
+              <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#48#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DjangoTest/urls.py">
+        <entry file="file://$PROJECT_DIR$/studentsProject/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="528">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="e#639#671#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blog/views.py">
+        <entry file="file://$PROJECT_DIR$/templates/students.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="178">
+              <caret line="120" column="4" selection-start-line="120" selection-start-column="4" selection-end-line="120" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -5237,32 +5201,16 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-    <option name="PUSH_TAGS">
-      <GitPushTagMode />
-    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/fd6a2632-61f0-48d4-8c23-3ce24eb2b9f7/console.sql" />
-        <option value="$PROJECT_DIR$/templates/404.html" />
-        <option value="$PROJECT_DIR$/templates/500.html" />
-        <option value="$PROJECT_DIR$/templates/ajax.py" />
-        <option value="$PROJECT_DIR$/templates/ajax.html" />
-        <option value="$PROJECT_DIR$/templates/base.html" />
-        <option value="$PROJECT_DIR$/templates/child.html" />
-        <option value="$PROJECT_DIR$/venv/Scripts/django-admin.py" />
-        <option value="$PROJECT_DIR$/templates/login.html" />
-        <option value="$PROJECT_DIR$/templates/change_pwd.html" />
-        <option value="$PROJECT_DIR$/templates/verify_show.html" />
-        <option value="$PROJECT_DIR$/blog/views.py" />
-        <option value="$PROJECT_DIR$/templates/index.html" />
-        <option value="$PROJECT_DIR$/blog/middleware.py" />
-        <option value="$PROJECT_DIR$/DjangoTest/settings.py" />
-        <option value="$PROJECT_DIR$/blog/admin.py" />
-        <option value="$PROJECT_DIR$/blog/models.py" />
-        <option value="$PROJECT_DIR$/DjangoTest/urls.py" />
-        <option value="$PROJECT_DIR$/DjangoTest/__init__.py" />
+        <option value="$PROJECT_DIR$/studentsProject/__init__.py" />
+        <option value="$PROJECT_DIR$/app01/models.py" />
+        <option value="$PROJECT_DIR$/studentsProject/settings.py" />
+        <option value="$PROJECT_DIR$/studentsProject/urls.py" />
+        <option value="$PROJECT_DIR$/app01/views.py" />
+        <option value="$PROJECT_DIR$/templates/students.html" />
       </list>
     </option>
   </component>
@@ -5273,66 +5221,94 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="294" />
-    <option name="y" value="11" />
-    <option name="width" value="1262" />
+    <option name="x" value="891" />
+    <option name="width" value="1028" />
     <option name="height" value="1040" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <OptionsSetting value="false" id="Update" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="DjangoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DjangoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="studentsProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studentsProject" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DjangoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DjangoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="studentsProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studentsProject" type="462c0819:PsiDirectoryNode" />
+              <item name="app01" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DjangoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DjangoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="DjangoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="studentsProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studentsProject" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DjangoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DjangoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="studentsProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studentsProject" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studentsProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studentsProject" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studentsProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studentsProject" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studentsProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studentsProject" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studentsProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studentsProject" type="462c0819:PsiDirectoryNode" />
+              <item name="studentsProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studentsProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studentsProject" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="ToolWindowDatabase Changes.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DjangoTest" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="database.main" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Python\DjangoTest\static\images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Python\DjangoTest" />
-      <recent name="D:\Python\DjangoTest\blog" />
+      <recent name="D:\Python\studentsProject\templates" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python\studentsProject\templates" />
+      <recent name="D:\Python\studentsProject" />
+      <recent name="D:\Python\studentsProject\static" />
+      <recent name="D:\Python\studentsProject\static\plugins" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -5347,14 +5323,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="DjangoTest" type="Python.DjangoServer" factoryName="Django server">
-      <module name="DjangoTest" />
+  <component name="RunManager" selected="JavaScript Debug.students.html">
+    <configuration name="students.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/studentsProject/templates/students.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="studentsProject" type="Python.DjangoServer" factoryName="Django server">
+      <module name="studentsProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
-        <env name="DJANGO_SETTINGS_MODULE" value="DjangoTest.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -5372,124 +5350,77 @@
       <option name="customRunCommand" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Django server.studentsProject" />
+      <item itemvalue="JavaScript Debug.students.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.students.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b02c7a15-78d8-42c6-b3d8-afd903ff4c58" name="Default Changelist" comment="" />
-      <created>1542698180411</created>
+      <changelist id="721a9d12-60ac-4f4f-9669-f6ccd25c3649" name="Default Changelist" comment="" />
+      <created>1544133489766</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1542698180411</updated>
+      <updated>1544133489766</updated>
     </task>
-    <task id="LOCAL-00001" summary="demotest add 数据库查询添加图书">
-      <created>1542753941194</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1542753941194</updated>
-    </task>
-    <task id="LOCAL-00002" summary="demotest add 数据库查询添加图书">
-      <created>1542754319117</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1542754319118</updated>
-    </task>
-    <task id="LOCAL-00003" summary="查询图书页面！！">
-      <created>1542895779509</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1542895779509</updated>
-    </task>
-    <task id="LOCAL-00004" summary="添加登录页面 还有装饰器">
-      <created>1543194268478</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1543194268478</updated>
-    </task>
-    <task id="LOCAL-00005" summary="添加登录页面还有csrf——token防护">
-      <created>1543194621556</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1543194621556</updated>
-    </task>
-    <task id="LOCAL-00006" summary="添加新的页面">
-      <created>1543195047969</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1543195047969</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
   <component name="ToolWindowManager">
-    <frame x="294" y="11" width="1262" height="1040" extended-state="0" />
+    <frame x="891" y="0" width="1028" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49915397" visible="true" weight="0.2778702" />
-      <window_info id="Structure" order="1" sideWeight="0.500846" side_tool="true" weight="0.25933832" />
-      <window_info id="Favorites" order="2" sideWeight="0.500846" side_tool="true" weight="0.25933832" />
-      <window_info anchor="bottom" id="Database Console" order="0" sideWeight="0.4994664" weight="0.32312927" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.32993197" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.32993197" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" weight="0.32993197" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="manage.py@DjangoTest" order="10" sideWeight="0.4994664" weight="0.3956916" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49839914" weight="0.16439909" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50160086" side_tool="true" weight="0.32993197" />
-      <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.49839914" weight="0.32993197" />
-      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" type="SLIDING" weight="0.32993197" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.32977587" />
-      <window_info anchor="right" id="Database" order="4" weight="0.32977587" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.29235536" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49896693" visible="true" weight="0.3356009" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50103307" side_tool="true" weight="0.3356009" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="4" weight="0.32993197" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32405347" />
+      <window_info anchor="bottom" id="Run" order="8" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="SciView" order="2" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49915397" visible="true" weight="0.3094984" />
-      <window_info id="Structure" order="1" sideWeight="0.500846" side_tool="true" weight="0.25933832" />
-      <window_info id="Favorites" order="2" sideWeight="0.500846" side_tool="true" weight="0.25933832" />
-      <window_info anchor="bottom" id="Database Console" order="0" sideWeight="0.4994664" weight="0.32312927" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.32993197" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.32993197" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" weight="0.32993197" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="manage.py@DjangoTest" order="10" sideWeight="0.4994664" weight="0.3956916" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49839914" visible="true" weight="0.16439909" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50160086" side_tool="true" weight="0.32993197" />
-      <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.49839914" weight="0.32993197" />
-      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" type="SLIDING" weight="0.32993197" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.32977587" />
-      <window_info anchor="right" id="Database" order="4" weight="0.32977587" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2867804" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32962137" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.32962137" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="4" weight="0.32993197" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32405347" />
+      <window_info anchor="bottom" id="Run" order="8" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="SciView" order="2" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -5498,247 +5429,77 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="demotest add 数据库查询添加图书" />
-    <MESSAGE value="查询图书页面！！" />
-    <MESSAGE value="添加登录页面 还有装饰器" />
-    <MESSAGE value="添加登录页面还有csrf——token防护" />
-    <MESSAGE value="添加新的页面" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加新的页面" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/db.sqlite3" />
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/db/utils.py">
+    <entry file="file://$PROJECT_DIR$/static/jquery-3.1.1.js" />
+    <entry file="file://$PROJECT_DIR$/studentsProject/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="109" selection-start-line="109" selection-end-line="109" />
+        <state relative-caret-position="96">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/db/backends/mysql/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/importlib/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="126" selection-start-line="126" selection-end-line="126" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/youdaoyun/weixinobU7VjvGAMD_v6P33EB8_nC__BFM/137C14018A5242D592FE498A21F4AC0C/客户端.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../客户端.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../web_server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2025">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mini_frame.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/models.py___jb_tmp___" />
-    <entry file="das://fd6a2632-61f0-48d4-8c23-3ce24eb2b9f7/schema/test/table/person" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/fd6a2632-61f0-48d4-8c23-3ce24eb2b9f7/console.sql" />
-    <entry file="file://$PROJECT_DIR$/DjangoTest/settings.py___jb_tmp___" />
-    <entry file="file://$PROJECT_DIR$/templates/404.html___jb_tmp___" />
-    <entry file="file://$PROJECT_DIR$/templates/500.html" />
-    <entry file="file://$PROJECT_DIR$/templates/404.html" />
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pymysql/err.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="108" selection-start-line="108" selection-end-line="108" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DjangoTest/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DjangoTest/urls.py___jb_tmp___" />
-    <entry file="file://$PROJECT_DIR$/templates/ajax.py" />
-    <entry file="file://$PROJECT_DIR$/templates/ajax.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Scripts/django-admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/apps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/__init__.py">
+    <entry file="file://$PROJECT_DIR$/static/plugins/bootstrap/js/npm.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/base.html">
+    <entry file="file://$PROJECT_DIR$/static/plugins/bootstrap-3.3.7-dist/js/npm.js" />
+    <entry file="file://$PROJECT_DIR$/static/plugins/bootstrap/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        <state relative-caret-position="-648" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app01/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/child.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/change_pwd.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/verify_show.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/migrations/0002_areainfo.py">
+    <entry file="file://$PROJECT_DIR$/static/plugins/bootstrap/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/migrations/__init__.py">
+    <entry file="file://$PROJECT_DIR$/static/js/jquery-3.1.1.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/migrations/0001_initial.py">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/html5-schema/html5chars.ent">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="290">
+          <caret line="134" column="10" selection-start-line="134" selection-start-column="10" selection-end-line="134" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/db/models/base.py">
+    <entry file="file://$PROJECT_DIR$/studentsProject/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="298" selection-start-line="298" selection-end-line="298" />
+        <state relative-caret-position="173">
+          <caret line="119" column="13" lean-forward="true" selection-start-line="119" selection-start-column="13" selection-end-line="119" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/admin.py">
+    <entry file="file://$PROJECT_DIR$/app01/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        <state relative-caret-position="528">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DjangoTest/__init__.py">
+    <entry file="file://$PROJECT_DIR$/studentsProject/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        <state relative-caret-position="528">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#639#671#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/middleware.py">
+    <entry file="file://$PROJECT_DIR$/templates/students.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        <state relative-caret-position="178">
+          <caret line="120" column="4" selection-start-line="120" selection-start-column="4" selection-end-line="120" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/tests.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DjangoTest/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DjangoTest/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="78" selection-start-line="78" selection-end-line="89" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
